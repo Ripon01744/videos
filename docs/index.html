@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Videos — Auto Feed</title>
 <meta name="description" content="Auto-updated videos feed scraped every 15 minutes." />
+<meta name="referrer" content="no-referrer" />
 <style>
   :root { color-scheme: dark; --bg:#0b0b0f; --card:#15151d; --muted:#8b8b99; --fg:#f2f2f7; --accent:#ff3b5c; }
   *{box-sizing:border-box}
@@ -51,7 +52,7 @@
 </main>
 <div id="player" class="player">
   <button class="close" onclick="closePlayer()">×</button>
-  <video id="video" controls playsinline></video>
+  <video id="video" controls playsinline referrerpolicy="no-referrer"></video>
   <div id="ptitle" class="ptitle"></div>
 </div>
 <footer>Auto-updated every 15 min · <a href="./data.json" style="color:var(--muted)">data.json</a></footer>
