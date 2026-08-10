@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-08-07T00:15:42.889314+00:00",
+  "generated_at": "2026-08-10T23:19:11.924612+00:00",
   "count": 1000,
   "folders": [
     {
@@ -12678,7 +12678,7 @@
         "Moham",
         "Divya"
       ],
-      "video_src": "https://video.maalcdn.com/Feni/Moham/Moham%20Episode%202.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260806%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260806T194728Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac58a708c098c4a5c23e017b813cf3bfb13ac678e948a572432f3fd3bec7ace1"
+      "video_src": null
     },
     {
       "id": 11421,
