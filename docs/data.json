@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-08-24T13:12:33.736732+00:00",
+  "generated_at": "2026-08-24T17:16:24.331349+00:00",
   "count": 1000,
   "folders": [
     {
@@ -13899,7 +13899,7 @@
       "tags": [
         "Fake Friendship"
       ],
-      "video_src": "https://video.maalcdn.com/XSeries/Fake%20Friendship/Fake%20Friendship%20Episode%201.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260820%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260820T081814Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e8c707eadaa4acde021d56ef3ceed2cebc47c09df7181b96bb6fc04962eb56c1"
+      "video_src": null
     },
     {
       "id": 8184,
