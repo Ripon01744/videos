@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-08-22T18:41:32.767301+00:00",
+  "generated_at": "2026-08-24T12:04:14.704642+00:00",
   "count": 1000,
   "folders": [
     {
@@ -14225,7 +14225,7 @@
         "XSeries"
       ],
       "tags": [],
-      "video_src": "https://video.maalcdn.com/XSeries/Fantasy%20Live.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260820%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260820T080426Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8254a1c613502eb93d32795f91b09b1714a63b778bf24af17d91ed2527affc21"
+      "video_src": null
     },
     {
       "id": 8180,
