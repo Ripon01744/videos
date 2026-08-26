@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-08-24T20:59:21.235209+00:00",
+  "generated_at": "2026-08-26T07:33:34.061602+00:00",
   "count": 1000,
   "folders": [
     {
@@ -15585,7 +15585,7 @@
       "tags": [
         "Aye Auto"
       ],
-      "video_src": "https://video.maalcdn.com/PrimeXtream/Aye%20Auto/Aye%20Auto%20Episode%203.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260820%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260820T080312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=30fc2dca92913ca4d24ca56b9d6cc1f2f4dece7aebd07c05f41a3e56b2f46fdf"
+      "video_src": null
     },
     {
       "id": 7431,
@@ -15604,7 +15604,7 @@
         "Rajsi Verma",
         "Reeta Mewada"
       ],
-      "video_src": "https://video.maalcdn.com/Nuefliks/Mystery/Mystery%20E2.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260820%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260820T080500Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e1f92198c10f61e82dee3093424f93e13af4595d2f81b4c1a112938529b7275b"
+      "video_src": null
     },
     {
       "id": 7783,
