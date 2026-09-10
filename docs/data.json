@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-09-09T22:35:27.750432+00:00",
+  "generated_at": "2026-09-10T00:37:01.494200+00:00",
   "count": 1000,
   "folders": [
     {
@@ -1221,7 +1221,7 @@
       "tags": [
         "Maulana Ki Masti"
       ],
-      "video_src": null
+      "video_src": "https://video.maalcdn.com/MoodX/Maulana%20Ki%20Masti/Maulana%20Ki%20Masti%20Episode%202.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T161712Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9d48c32be24ca64d35c6c0393a6bca719ea3884c0c10d0fc3bb790fd8b346a4a"
     },
     {
       "id": 11551,
@@ -3201,7 +3201,7 @@
         "MOODX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/MOODX/Single/Kinner%20X.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162141Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=25b30668214ea51cd1e68f4c2ff759b4d5e681ef1c35147c35f37eaf9683b3a7"
     },
     {
       "id": 2639,
@@ -3574,7 +3574,7 @@
         "Maya Sutra",
         "Tejashwini Prabhakar"
       ],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/MOODX/Maya%20Sutra/Maya%20Sutra%20Episode%202.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162154Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4cef543ea4175f77a8c8cc361bd1ff6237484666b18950a015775c5ad2083ab8"
     },
     {
       "id": 2743,
@@ -3622,7 +3622,7 @@
       "tags": [
         "Rangeela"
       ],
-      "video_src": null
+      "video_src": "https://cdn.azmaal.com/ULLU/Rangeela/Rangeela%20Episode%201.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=25401e6608ddbca157a342e1d8c71cb3%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162556Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c3e37ee225878215a69ab1a15f5c5a7eaa1caef77b7c157c86e933476724312"
     },
     {
       "id": 2713,
@@ -3894,7 +3894,7 @@
       "tags": [
         "Noukar"
       ],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/MOODX/Noukar/Noukar%20Episode%202.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162649Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fff16ca10fa50150e0168a9e5258add4a53a0313c33769938220a3b17ee56815"
     },
     {
       "id": 2801,
@@ -7463,7 +7463,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Tailor%20Ji.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T164237Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=77b10ceefdfbfd7b689c22f386eba1b046144791955981e91cb3fc54c32f0f6c"
     },
     {
       "id": 4287,
@@ -7589,7 +7589,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Rajjo%20Darling.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T164001Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=09c15d2aea82b517e74c0303e97c492c414565af6b71a31d850020b0623818d0"
     },
     {
       "id": 4313,
@@ -8275,7 +8275,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Rocket%20Boys.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162445Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=790565f44bdf567cfccb09d2a77f579c8a5fa006b05ccd9f89bfe0560f86c83d"
     },
     {
       "id": 4185,
@@ -8807,7 +8807,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Jassie%20Farar.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1eac602b933eb6307b48d234966883347a0e6cd060d5e3e32cea4cf86859bdc4"
     },
     {
       "id": 4135,
@@ -10053,7 +10053,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Shanta%20Bai.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T171215Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=eeb1274be57eb747e24d2720737aecb535538eb3f4c0b8239b98d0e0b3fdf8a4"
     },
     {
       "id": 3947,
@@ -11133,7 +11133,7 @@
         "NEONX"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://cdn.pmaal.com/NEONX/Lust%20Queen.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=fc6b055d91149af74bdb2e92c80939a2%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T170806Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c7256305f5c559e9aee16ee5eb46fa2a7eebd9cb5c0a45e332a21a0f058de928"
     },
     {
       "id": 3797,
@@ -11630,7 +11630,7 @@
       "tags": [
         "Teacher"
       ],
-      "video_src": null
+      "video_src": "https://video.maalcdn.com/Navarasa/Teacher/Teacher%20Episode%204.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162312Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=29169ed547227e3956c8a869528ae37d239c3afc134f51ae7ae902e7e439e143"
     },
     {
       "id": 7389,
@@ -13807,7 +13807,7 @@
         "Kinnaratumbikal",
         "Aadithya Raj"
       ],
-      "video_src": null
+      "video_src": "https://video.maalcdn.com/Yessma/Kinnaratumbikal/Kinnaratumbikal%20E2%20%28XSeries.IN%29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T161739Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e72549bdc9bb7631dfe5c2c2e7d1dadb33863a861d0a2d85f9232fb4af08b3bb"
     },
     {
       "id": 8242,
@@ -14374,7 +14374,7 @@
         "XPrime"
       ],
       "tags": [],
-      "video_src": null
+      "video_src": "https://video.maalcdn.com/XPrime/Fucking%20Morning%20%282023%29%20Full%20Web%20Series%20%28XSeries.IN%29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T171226Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b8fafae1340903acf474011d82af88ef10c40a8f47fed02517c2f8e87915bd0"
     },
     {
       "id": 8008,
@@ -15197,7 +15197,7 @@
         "Sapna Sharma",
         "Zoya Rathore"
       ],
-      "video_src": null
+      "video_src": "https://video.maalcdn.com/Tri%20Flicks/Garmi%20%282022%29/Garmi%20S01E06%20%28XSeries.IN%29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=809a68eb5f9a4d13e1b8b283b1fce3fe%2F20260908%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260908T162052Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58b3dfa3e8d0c94463fa071403fb4a17b874a8d636b1b52a2631877362194585"
     },
     {
       "id": 7931,
