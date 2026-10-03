@@ -1,15 +1,15 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-10-03T13:22:45.319271+00:00",
+  "generated_at": "2026-10-03T17:30:03.065608+00:00",
   "count": 1000,
   "folders": [
     {
       "name": "ULLU",
-      "count": 405
+      "count": 406
     },
     {
       "name": "Jugnu",
-      "count": 118
+      "count": 116
     },
     {
       "name": "Atrangii",
@@ -60,11 +60,11 @@
       "count": 44
     },
     {
-      "name": "Aayushi Jaiswal",
-      "count": 40
+      "name": "Jonita DCruz",
+      "count": 42
     },
     {
-      "name": "Jonita DCruz",
+      "name": "Aayushi Jaiswal",
       "count": 40
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "name": "VOOVI",
-      "count": 31
+      "count": 30
     },
     {
       "name": "Noor Malabika",
@@ -128,11 +128,11 @@
       "count": 27
     },
     {
-      "name": "Malvika Tomar",
-      "count": 26
+      "name": "Makhan",
+      "count": 25
     },
     {
-      "name": "Makhan",
+      "name": "Malvika Tomar",
       "count": 25
     },
     {
@@ -224,12 +224,12 @@
       "count": 16
     },
     {
-      "name": "Sweta Yadav",
+      "name": "Sharanya Jit Kaur",
       "count": 16
     },
     {
-      "name": "Sharanya Jit Kaur",
-      "count": 15
+      "name": "Sweta Yadav",
+      "count": 16
     },
     {
       "name": "Aisha Pathan",
@@ -245,6 +245,10 @@
     },
     {
       "name": "Ayesha Kapoor",
+      "count": 14
+    },
+    {
+      "name": "HitPrime",
       "count": 14
     },
     {
@@ -273,10 +277,6 @@
     },
     {
       "name": "Aparna Sharma",
-      "count": 12
-    },
-    {
-      "name": "HitPrime",
       "count": 12
     },
     {
@@ -424,10 +424,6 @@
       "count": 9
     },
     {
-      "name": "Hiral Radadiya",
-      "count": 9
-    },
-    {
       "name": "Kalyani Jha",
       "count": 9
     },
@@ -482,6 +478,10 @@
     {
       "name": "Zoey Thakur",
       "count": 9
+    },
+    {
+      "name": "Hiral Radadiya",
+      "count": 8
     },
     {
       "name": "Iira Soni",
@@ -832,6 +832,10 @@
       "count": 6
     },
     {
+      "name": "Sia Singh",
+      "count": 6
+    },
+    {
       "name": "Singardaan",
       "count": 6
     },
@@ -917,6 +921,10 @@
     },
     {
       "name": "Yaddasht",
+      "count": 6
+    },
+    {
+      "name": "Yogini",
       "count": 6
     },
     {
@@ -1248,10 +1256,6 @@
       "count": 4
     },
     {
-      "name": "Sia Singh",
-      "count": 4
-    },
-    {
       "name": "Size Matters S1",
       "count": 4
     },
@@ -1341,10 +1345,6 @@
     },
     {
       "name": "Yeh Kaisa Rishta",
-      "count": 4
-    },
-    {
-      "name": "Yogini",
       "count": 4
     },
     {
@@ -1569,10 +1569,6 @@
     },
     {
       "name": "Ranjana Arora",
-      "count": 2
-    },
-    {
-      "name": "Rasili Bai",
       "count": 2
     },
     {
@@ -1824,10 +1820,6 @@
       "count": 1
     },
     {
-      "name": "Rasgulla",
-      "count": 1
-    },
-    {
       "name": "Real Gold Digger",
       "count": 1
     },
@@ -1841,10 +1833,6 @@
     },
     {
       "name": "Shakti Ka Gyan",
-      "count": 1
-    },
-    {
-      "name": "Shweta Ghosh",
       "count": 1
     },
     {
@@ -1868,11 +1856,70 @@
       "count": 1
     },
     {
+      "name": "Zaroorat S1",
+      "count": 1
+    },
+    {
       "name": "Zeba Khan",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": 7122,
+      "slug": "zaroorat-s1-episode-1",
+      "title": "Zaroorat S1 Episode 1",
+      "description": "",
+      "link": "https://zmaal.net/zaroorat-s1-episode-1/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Zaroorat-S1-Episode-1.webp",
+      "date": "2026-10-03T16:47:24",
+      "categories": [
+        "ULLU"
+      ],
+      "tags": [
+        "Zaroorat S1",
+        "Sharanya Jit Kaur"
+      ],
+      "video_src": "https://azmaal.com/ULLU/Zaroorat%20S1/Zaroorat%20S1%20Episode%201.mp4"
+    },
+    {
+      "id": 7098,
+      "slug": "yogini-episode-6",
+      "title": "Yogini Episode 6",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-6/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-6.webp",
+      "date": "2026-10-03T16:43:24",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%206.mp4"
+    },
+    {
+      "id": 7097,
+      "slug": "yogini-episode-5",
+      "title": "Yogini Episode 5",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-5/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-5.webp",
+      "date": "2026-10-03T14:19:43",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%205.mp4"
+    },
     {
       "id": 7096,
       "slug": "yogini-episode-4",
@@ -20209,59 +20256,6 @@
         "Ankita Singh"
       ],
       "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%201.mp4"
-    },
-    {
-      "id": 5476,
-      "slug": "rasili-bai-episode-2",
-      "title": "Rasili Bai Episode 2",
-      "description": "",
-      "link": "https://zmaal.net/rasili-bai-episode-2/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasili-Bai-Episode-2.webp",
-      "date": "2026-08-02T16:05:18",
-      "categories": [
-        "Jugnu"
-      ],
-      "tags": [
-        "Rasili Bai",
-        "Mahi Kaur"
-      ],
-      "video_src": "https://azmaal.com/Jugnu/Rasili%20Bai/Rasili%20Bai%20Episode%202.mp4"
-    },
-    {
-      "id": 5475,
-      "slug": "rasili-bai-episode-1",
-      "title": "Rasili Bai Episode 1",
-      "description": "",
-      "link": "https://zmaal.net/rasili-bai-episode-1/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasili-Bai-Episode-1.webp",
-      "date": "2026-08-02T15:58:47",
-      "categories": [
-        "Jugnu"
-      ],
-      "tags": [
-        "Rasili Bai",
-        "Mahi Kaur"
-      ],
-      "video_src": "https://azmaal.com/Jugnu/Rasili%20Bai/Rasili%20Bai%20Episode%201.mp4"
-    },
-    {
-      "id": 5474,
-      "slug": "rasgulla-episode-6",
-      "title": "Rasgulla Episode 6",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-6/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-6.webp",
-      "date": "2026-08-02T15:21:23",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%206.mp4"
     }
   ]
 }
