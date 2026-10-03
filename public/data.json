@@ -1,11 +1,11 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-10-03T17:30:03.065608+00:00",
+  "generated_at": "2026-10-03T20:08:17.114626+00:00",
   "count": 1000,
   "folders": [
     {
       "name": "ULLU",
-      "count": 406
+      "count": 408
     },
     {
       "name": "Jugnu",
@@ -108,10 +108,6 @@
       "count": 31
     },
     {
-      "name": "VOOVI",
-      "count": 30
-    },
-    {
       "name": "Noor Malabika",
       "count": 29
     },
@@ -121,6 +117,10 @@
     },
     {
       "name": "AKKU",
+      "count": 28
+    },
+    {
+      "name": "VOOVI",
       "count": 28
     },
     {
@@ -208,6 +208,10 @@
       "count": 18
     },
     {
+      "name": "Sharanya Jit Kaur",
+      "count": 18
+    },
+    {
       "name": "9 Red Movies",
       "count": 16
     },
@@ -221,10 +225,6 @@
     },
     {
       "name": "Priyanka Chaurasia",
-      "count": 16
-    },
-    {
-      "name": "Sharanya Jit Kaur",
       "count": 16
     },
     {
@@ -320,10 +320,6 @@
       "count": 12
     },
     {
-      "name": "Ankita Singh",
-      "count": 11
-    },
-    {
       "name": "BulBul Play",
       "count": 11
     },
@@ -417,6 +413,10 @@
     },
     {
       "name": "Aishwarya Agrawal",
+      "count": 9
+    },
+    {
+      "name": "Ankita Singh",
       "count": 9
     },
     {
@@ -737,10 +737,6 @@
     },
     {
       "name": "Pranjal Sharma",
-      "count": 6
-    },
-    {
-      "name": "Rasili",
       "count": 6
     },
     {
@@ -1173,6 +1169,10 @@
     },
     {
       "name": "Priyanka Karmakar",
+      "count": 4
+    },
+    {
+      "name": "Rasili",
       "count": 4
     },
     {
@@ -1788,6 +1788,10 @@
       "count": 2
     },
     {
+      "name": "Zaroorat S1",
+      "count": 2
+    },
+    {
       "name": "Afreen Khan",
       "count": 1
     },
@@ -1856,7 +1860,7 @@
       "count": 1
     },
     {
-      "name": "Zaroorat S1",
+      "name": "Zaroorat S2",
       "count": 1
     },
     {
@@ -1865,6 +1869,40 @@
     }
   ],
   "items": [
+    {
+      "id": 7124,
+      "slug": "zaroorat-s2-episode-1",
+      "title": "Zaroorat S2 Episode 1",
+      "description": "",
+      "link": "https://zmaal.net/zaroorat-s2-episode-1/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Zaroorat-S2-Episode-1.webp",
+      "date": "2026-10-03T20:04:30",
+      "categories": [
+        "ULLU"
+      ],
+      "tags": [
+        "Zaroorat S2",
+        "Sharanya Jit Kaur"
+      ],
+      "video_src": "https://azmaal.com/ULLU/Zaroorat%20S2/Zaroorat%20S2%20Episode%201.mp4"
+    },
+    {
+      "id": 7123,
+      "slug": "zaroorat-s1-episode-2",
+      "title": "Zaroorat S1 Episode 2",
+      "description": "",
+      "link": "https://zmaal.net/zaroorat-s1-episode-2/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Zaroorat-S1-Episode-2.webp",
+      "date": "2026-10-03T19:36:57",
+      "categories": [
+        "ULLU"
+      ],
+      "tags": [
+        "Zaroorat S1",
+        "Sharanya Jit Kaur"
+      ],
+      "video_src": "https://azmaal.com/ULLU/Zaroorat%20S1/Zaroorat%20S1%20Episode%202.mp4"
+    },
     {
       "id": 7122,
       "slug": "zaroorat-s1-episode-1",
@@ -20222,40 +20260,6 @@
         "Ankita Singh"
       ],
       "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%203.mp4"
-    },
-    {
-      "id": 5478,
-      "slug": "rasili-episode-2",
-      "title": "Rasili Episode 2",
-      "description": "",
-      "link": "https://zmaal.net/rasili-episode-2/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasili-Episode-2.webp",
-      "date": "2026-08-02T18:37:31",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasili",
-        "Ankita Singh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%202.mp4"
-    },
-    {
-      "id": 5477,
-      "slug": "rasili-episode-1",
-      "title": "Rasili Episode 1",
-      "description": "",
-      "link": "https://zmaal.net/rasili-episode-1/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasili-Episode-1.webp",
-      "date": "2026-08-02T17:53:51",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasili",
-        "Ankita Singh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%201.mp4"
     }
   ]
 }
