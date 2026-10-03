@@ -1,6 +1,6 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-10-03T08:06:39.627996+00:00",
+  "generated_at": "2026-10-03T13:22:45.319271+00:00",
   "count": 1000,
   "folders": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "name": "Jugnu",
-      "count": 117
+      "count": 118
     },
     {
       "name": "Atrangii",
@@ -64,16 +64,16 @@
       "count": 40
     },
     {
+      "name": "Jonita DCruz",
+      "count": 40
+    },
+    {
       "name": "Neha Gupta",
       "count": 37
     },
     {
       "name": "PrimePlay",
       "count": 37
-    },
-    {
-      "name": "Jonita DCruz",
-      "count": 36
     },
     {
       "name": "Pooja Poddar",
@@ -84,8 +84,8 @@
       "count": 36
     },
     {
-      "name": "VOOVI",
-      "count": 36
+      "name": "Mahi Kaur",
+      "count": 35
     },
     {
       "name": "Ritu Rai",
@@ -104,15 +104,11 @@
       "count": 31
     },
     {
-      "name": "Mahi Kaur",
-      "count": 31
-    },
-    {
-      "name": "Malvika Tomar",
-      "count": 31
-    },
-    {
       "name": "Shiny Dixit",
+      "count": 31
+    },
+    {
+      "name": "VOOVI",
       "count": 31
     },
     {
@@ -130,6 +126,10 @@
     {
       "name": "Priyanka Halder",
       "count": 27
+    },
+    {
+      "name": "Malvika Tomar",
+      "count": 26
     },
     {
       "name": "Makhan",
@@ -248,10 +248,6 @@
       "count": 14
     },
     {
-      "name": "Hiral Radadiya",
-      "count": 14
-    },
-    {
       "name": "Monika Bisht",
       "count": 14
     },
@@ -277,6 +273,10 @@
     },
     {
       "name": "Aparna Sharma",
+      "count": 12
+    },
+    {
+      "name": "HitPrime",
       "count": 12
     },
     {
@@ -424,6 +424,10 @@
       "count": 9
     },
     {
+      "name": "Hiral Radadiya",
+      "count": 9
+    },
+    {
       "name": "Kalyani Jha",
       "count": 9
     },
@@ -478,10 +482,6 @@
     {
       "name": "Zoey Thakur",
       "count": 9
-    },
-    {
-      "name": "HitPrime",
-      "count": 8
     },
     {
       "name": "Iira Soni",
@@ -740,10 +740,6 @@
       "count": 6
     },
     {
-      "name": "Rasgulla",
-      "count": 6
-    },
-    {
       "name": "Rasili",
       "count": 6
     },
@@ -829,10 +825,6 @@
     },
     {
       "name": "Shweta Bhardwaj",
-      "count": 6
-    },
-    {
-      "name": "Shweta Ghosh",
       "count": 6
     },
     {
@@ -1256,6 +1248,10 @@
       "count": 4
     },
     {
+      "name": "Sia Singh",
+      "count": 4
+    },
+    {
       "name": "Size Matters S1",
       "count": 4
     },
@@ -1345,6 +1341,10 @@
     },
     {
       "name": "Yeh Kaisa Rishta",
+      "count": 4
+    },
+    {
+      "name": "Yogini",
       "count": 4
     },
     {
@@ -1824,6 +1824,10 @@
       "count": 1
     },
     {
+      "name": "Rasgulla",
+      "count": 1
+    },
+    {
       "name": "Real Gold Digger",
       "count": 1
     },
@@ -1837,6 +1841,10 @@
     },
     {
       "name": "Shakti Ka Gyan",
+      "count": 1
+    },
+    {
+      "name": "Shweta Ghosh",
       "count": 1
     },
     {
@@ -1865,6 +1873,96 @@
     }
   ],
   "items": [
+    {
+      "id": 7096,
+      "slug": "yogini-episode-4",
+      "title": "Yogini Episode 4",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-4/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-4.webp",
+      "date": "2026-10-03T12:29:50",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%204.mp4"
+    },
+    {
+      "id": 7095,
+      "slug": "yogini-episode-3",
+      "title": "Yogini Episode 3",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-3/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-3.webp",
+      "date": "2026-10-03T12:10:46",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%203.mp4"
+    },
+    {
+      "id": 7094,
+      "slug": "yogini-episode-2",
+      "title": "Yogini Episode 2",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-2/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-2.webp",
+      "date": "2026-10-03T10:30:01",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%202.mp4"
+    },
+    {
+      "id": 7093,
+      "slug": "yogini-episode-1",
+      "title": "Yogini Episode 1",
+      "description": "",
+      "link": "https://zmaal.net/yogini-episode-1/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yogini-Episode-1.webp",
+      "date": "2026-10-03T10:15:50",
+      "categories": [
+        "HitPrime"
+      ],
+      "tags": [
+        "Yogini",
+        "Jonita DCruz",
+        "Mahi Kaur",
+        "Sia Singh"
+      ],
+      "video_src": "https://azmaal.com/HitPrime/Yogini/Yogini%20Episode%201.mp4"
+    },
+    {
+      "id": 7091,
+      "slug": "yoga-guru",
+      "title": "Yoga Guru",
+      "description": "",
+      "link": "https://zmaal.net/yoga-guru/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Yoga-Guru.webp",
+      "date": "2026-10-03T10:09:03",
+      "categories": [
+        "Jugnu"
+      ],
+      "tags": [],
+      "video_src": "https://azmaal.com/Jugnu/Yoga%20Guru.mp4"
+    },
     {
       "id": 7090,
       "slug": "yes-sir-episode-3",
@@ -20164,101 +20262,6 @@
         "Shweta Ghosh"
       ],
       "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%206.mp4"
-    },
-    {
-      "id": 5473,
-      "slug": "rasgulla-episode-5",
-      "title": "Rasgulla Episode 5",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-5/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-5.webp",
-      "date": "2026-08-02T13:41:15",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%205.mp4"
-    },
-    {
-      "id": 5472,
-      "slug": "rasgulla-episode-4",
-      "title": "Rasgulla Episode 4",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-4/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-4.webp",
-      "date": "2026-08-02T13:30:06",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%204.mp4"
-    },
-    {
-      "id": 5471,
-      "slug": "rasgulla-episode-3",
-      "title": "Rasgulla Episode 3",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-3/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-3.webp",
-      "date": "2026-08-02T13:14:10",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%203.mp4"
-    },
-    {
-      "id": 5470,
-      "slug": "rasgulla-episode-2",
-      "title": "Rasgulla Episode 2",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-2/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-2.webp",
-      "date": "2026-08-02T12:44:29",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%202.mp4"
-    },
-    {
-      "id": 5469,
-      "slug": "rasgulla-episode-1",
-      "title": "Rasgulla Episode 1",
-      "description": "",
-      "link": "https://zmaal.net/rasgulla-episode-1/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasgulla-Episode-1.webp",
-      "date": "2026-08-02T10:55:51",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasgulla",
-        "Hiral Radadiya",
-        "Malvika Tomar",
-        "Shweta Ghosh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasgulla/Rasgulla%20Episode%201.mp4"
     }
   ]
 }
