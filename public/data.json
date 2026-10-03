@@ -1,11 +1,11 @@
 {
   "source": "https://zmaal.net",
-  "generated_at": "2026-10-03T20:08:17.114626+00:00",
+  "generated_at": "2026-10-03T23:03:14.134687+00:00",
   "count": 1000,
   "folders": [
     {
       "name": "ULLU",
-      "count": 408
+      "count": 409
     },
     {
       "name": "Jugnu",
@@ -120,11 +120,11 @@
       "count": 28
     },
     {
-      "name": "VOOVI",
-      "count": 28
+      "name": "Priyanka Halder",
+      "count": 27
     },
     {
-      "name": "Priyanka Halder",
+      "name": "VOOVI",
       "count": 27
     },
     {
@@ -188,6 +188,10 @@
       "count": 19
     },
     {
+      "name": "Sharanya Jit Kaur",
+      "count": 19
+    },
+    {
       "name": "Taniya Chatterjee",
       "count": 19
     },
@@ -205,10 +209,6 @@
     },
     {
       "name": "Rajsi Verma",
-      "count": 18
-    },
-    {
-      "name": "Sharanya Jit Kaur",
       "count": 18
     },
     {
@@ -416,10 +416,6 @@
       "count": 9
     },
     {
-      "name": "Ankita Singh",
-      "count": 9
-    },
-    {
       "name": "Arita Paul",
       "count": 9
     },
@@ -478,6 +474,10 @@
     {
       "name": "Zoey Thakur",
       "count": 9
+    },
+    {
+      "name": "Ankita Singh",
+      "count": 8
     },
     {
       "name": "Hiral Radadiya",
@@ -1172,10 +1172,6 @@
       "count": 4
     },
     {
-      "name": "Rasili",
-      "count": 4
-    },
-    {
       "name": "Razia khanam",
       "count": 4
     },
@@ -1389,6 +1385,10 @@
     },
     {
       "name": "Rajni Mehta",
+      "count": 3
+    },
+    {
+      "name": "Rasili",
       "count": 3
     },
     {
@@ -1792,6 +1792,10 @@
       "count": 2
     },
     {
+      "name": "Zaroorat S2",
+      "count": 2
+    },
+    {
       "name": "Afreen Khan",
       "count": 1
     },
@@ -1860,15 +1864,28 @@
       "count": 1
     },
     {
-      "name": "Zaroorat S2",
-      "count": 1
-    },
-    {
       "name": "Zeba Khan",
       "count": 1
     }
   ],
   "items": [
+    {
+      "id": 7125,
+      "slug": "zaroorat-s2-episode-2",
+      "title": "Zaroorat S2 Episode 2",
+      "description": "",
+      "link": "https://zmaal.net/zaroorat-s2-episode-2/",
+      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Zaroorat-S2-Episode-2.webp",
+      "date": "2026-10-03T21:47:33",
+      "categories": [
+        "ULLU"
+      ],
+      "tags": [
+        "Zaroorat S2",
+        "Sharanya Jit Kaur"
+      ],
+      "video_src": "https://azmaal.com/ULLU/Zaroorat%20S2/Zaroorat%20S2%20Episode%202.mp4"
+    },
     {
       "id": 7124,
       "slug": "zaroorat-s2-episode-1",
@@ -20243,23 +20260,6 @@
         "Ankita Singh"
       ],
       "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%204.mp4"
-    },
-    {
-      "id": 5479,
-      "slug": "rasili-episode-3",
-      "title": "Rasili Episode 3",
-      "description": "",
-      "link": "https://zmaal.net/rasili-episode-3/",
-      "thumbnail": "https://zmaal.net/wp-content/uploads/2026/10/Rasili-Episode-3.webp",
-      "date": "2026-08-02T19:12:31",
-      "categories": [
-        "VOOVI"
-      ],
-      "tags": [
-        "Rasili",
-        "Ankita Singh"
-      ],
-      "video_src": "https://azmaal.com/VOOVI/Rasili/Rasili%20Episode%203.mp4"
     }
   ]
 }
